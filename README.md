@@ -1,6 +1,6 @@
 # Spotify Wrapper NFT Generator
 
-![](https://github.com/Your_Repository_Name/SpotifySoulbound.gif)
+![](https://github.com/spotify-wrapped-soulbound-nft/SpotifySoulbound.gif)
 
 ## Project Motivation
 
